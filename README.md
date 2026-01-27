@@ -53,7 +53,7 @@ TravelLora is a modern, responsive travel planning and booking platform that hel
 3. **Start the development server**
    ```bash
    # Start the Vite dev server
-   npm run dev
+   npm run dev.
    
    # In a new terminal, start the JSON server (mock API)
    npm run server
